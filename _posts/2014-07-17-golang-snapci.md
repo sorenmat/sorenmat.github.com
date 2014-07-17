@@ -5,7 +5,7 @@ description: ""
 category: 
 tags: [golang, ci, snapci]
 ---
-
+{% include JB/setup %}
 
 I'm finding myself writing more and more code in go, so i thought it were about time i got some CI up and running.
 Pretty much when that idea popped into my head, i got a mail from snap-ci. So i thought i would give it a go.
