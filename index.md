@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 
-tagline: These views are my own
+tagline: My brain and thoughts online
 ---
 
 ## List of rants
