@@ -4,7 +4,7 @@ title: Starting at Tradeshift
 quote: The journey begins
 image: false
 video: false
-tags : [tradeshift change]
+tags : [tradeshift, change]
 ---
 
 After almost 8 years at Schantz, i thought it was time for something new. So after a couple of nice talks with the Tradeshift CTO Gert Sylvest, I've decided to join Tradeshift.
